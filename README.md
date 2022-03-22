@@ -10,7 +10,7 @@
 
 #### Desarrollo Front End
 
-<a href="https://www.figma.com/file/GMhfZZTSKBIA9oGAS8tZKE/Untitled?node-id=11%3A76"></a>
+<img src="https://i.ibb.co/YTfrDVt/cardfront.png" alt="cardfront" border="0">
 
 #### Herramientas de Desarrollo
 <img src="https://i.ibb.co/KyVTkPZ/card-Desarrollo.png" alt="card-Desarrollo" class="ml-0" border="0">
