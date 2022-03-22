@@ -10,10 +10,10 @@
 
 #### Desarrollo Front End
 
-<img src="https://i.ibb.co/W3zrSXV/cartafrontend.png" alt="cartafrontend" border="0">
+<img  class="ml-0" src="https://i.ibb.co/W3zrSXV/cartafrontend.png" alt="cartafrontend" border="0">
 
 #### Herramientas de Desarrollo
-<img src="https://i.ibb.co/KyVTkPZ/card-Desarrollo.png" alt="card-Desarrollo" border="0">
+<img src="https://i.ibb.co/KyVTkPZ/card-Desarrollo.png" alt="card-Desarrollo" class="ml-0" border="0">
 
 ### Mis Proyectos
  <a href="https://xtremegaming.firebaseapp.com" target="blank"><img width='30%' src="https://i.ibb.co/hdvPb5L/xtreme-Gaming.png" alt="xtreme-Gaming"/></a>
