@@ -13,7 +13,7 @@
 <img src="https://i.ibb.co/YTfrDVt/cardfront.png" alt="cardfront" border="0">
 
 #### Herramientas de Desarrollo
-<img src="https://i.ibb.co/KyVTkPZ/card-Desarrollo.png" alt="card-Desarrollo" class="ml-0" border="0">
+<img src="https://i.ibb.co/NWS6PXg/card-Desarrollo.png" alt="card-Desarrollo" border="0">
 
 ### Mis Proyectos
  <a href="https://xtremegaming.firebaseapp.com" target="blank"><img width='30%' src="https://i.ibb.co/hdvPb5L/xtreme-Gaming.png" alt="xtreme-Gaming"/></a>
