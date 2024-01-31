@@ -16,7 +16,12 @@
 <img src="https://i.ibb.co/NWS6PXg/card-Desarrollo.png" alt="card-Desarrollo" border="0">
 
 ### Mis Proyectos
+<h1>Xtreme Gaming</h1>
+ <p>Primer proyecto desarrollado con HTML5, CSS3,JavaScript,Bootstrap</p>
  <a href="https://xtremegaming.firebaseapp.com" target="blank"><img width='30%' src="https://i.ibb.co/hdvPb5L/xtreme-Gaming.png" alt="xtreme-Gaming"/></a>
+ <h1>Xtreme Gaming V2</h1>
+ <p>Refactor de la primer version de Xtreme Gaming, en este se utilizo Angular 15, Firebase Data Base para el almacenamiento de productos y se desarrollo la api con NodeJs</p>
+
 
 <!--
 **Darioorfano/Darioorfano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
