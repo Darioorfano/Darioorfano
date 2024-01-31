@@ -21,7 +21,7 @@
  <a href="https://xtremegaming.firebaseapp.com" target="blank"><img width='30%' src="https://i.ibb.co/hdvPb5L/xtreme-Gaming.png" alt="xtreme-Gaming"/></a>
  <h1>Xtreme Gaming V2</h1>
  <p>Refactor de la primer version de Xtreme Gaming, en este proyecto  se utilizó Angular 15, Firebase Data Base para el almacenamiento de productos y NodeJs para el desarrollo de API</p>
-<a href="xtreme-gaming-v2.vercel.app" target="blank"><img width='30%' src="https://ibb.co/1JHxVJm" alt="xtreme-GamingV2"/></a>
+ <a href="xtreme-gaming-v2.vercel.app" target="blank"><img src="https://i.ibb.co/pXvdPRz/xtreme-Gamingv2.jpg" alt="xtreme-Gamingv2" border="0"></a>
 
 <!--
 **Darioorfano/Darioorfano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
